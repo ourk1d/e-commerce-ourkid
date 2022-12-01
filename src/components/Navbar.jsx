@@ -42,6 +42,7 @@ padding: 5px;
 `;
 
 const Input = styled.input`
+font-weight: lighter;
 padding: 5px;
 color: white;
 background-color: black;
@@ -99,8 +100,8 @@ const Navbar = () => {
           <MenuItem>REGISTER</MenuItem>
           <MenuItem>SIGN IN</MenuItem>
           <MenuItem>
-            <Badge badgeContent={4} color="primary">
-                <ShoppingCartIcon style={{fontSize:20,}} />
+            <Badge badgeContent={4} color="secondary">
+                <ShoppingCartIcon style={{fontSize:22,} } />
             </Badge>
           </MenuItem>
         </Right>
