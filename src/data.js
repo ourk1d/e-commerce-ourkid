@@ -40,3 +40,66 @@ export const categories = [
         title:"SUNGLASSES",
     },
 ];
+
+export const popularProducts = [
+    {
+        id:1,
+        img: "https://i.ibb.co/ngwN54B/1.png",
+
+    },
+    {
+        id:2,
+        img: "https://i.ibb.co/PT8ySYs/7.png",
+
+    },
+    {
+        id:3,
+        img: "https://i.ibb.co/1vNfyHm/3.png",
+
+    },
+    {
+        id:4,
+        img: "https://i.ibb.co/LSrHgkp/5.png",
+
+    },
+    {
+        id:5,
+        img: "https://i.ibb.co/s3nw88r/6.png",
+
+    },
+    {
+        id:6,
+        img: "https://i.ibb.co/R4rsJxK/8.png",
+
+    },
+    {
+        id:7,
+        img: "https://i.ibb.co/ncFrKQZ/9.png",
+
+    },
+    {
+        id:8,
+        img: "https://i.ibb.co/pjCJ3nz/10.png",
+
+    },
+    {
+        id:9,
+        img: "https://i.ibb.co/LrVPDCS/11.png",
+
+    },
+    {
+        id:10,
+        img: "https://i.ibb.co/sQH5cC7/4.png",
+
+    },
+    {
+        id:11,
+        img: "https://i.ibb.co/g45L0GT/Dise-o-sin-t-tulo-7.png",
+
+    },
+    {
+        id:12,
+        img: "https://i.ibb.co/VNVnfDt/Dise-o-sin-t-tulo-6.png",
+
+    },
+];
